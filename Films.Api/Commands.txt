@@ -1,0 +1,2 @@
+﻿dotnet ef --startup-project ../Films.Api migrations add
+dotnet ef --startup-project ../Films.Api database update

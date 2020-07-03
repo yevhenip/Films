@@ -1,0 +1,12 @@
+C:\Users\Jackson\RiderProjects\Films\Films.Core\bin\Debug\netcoreapp3.1\Films.Core.deps.json
+C:\Users\Jackson\RiderProjects\Films\Films.Core\bin\Debug\netcoreapp3.1\Films.Core.runtimeconfig.json
+C:\Users\Jackson\RiderProjects\Films\Films.Core\bin\Debug\netcoreapp3.1\Films.Core.runtimeconfig.dev.json
+C:\Users\Jackson\RiderProjects\Films\Films.Core\bin\Debug\netcoreapp3.1\Films.Core.dll
+C:\Users\Jackson\RiderProjects\Films\Films.Core\bin\Debug\netcoreapp3.1\Films.Core.pdb
+C:\Users\Jackson\RiderProjects\Films\Films.Core\obj\Debug\netcoreapp3.1\Films.Core.csprojAssemblyReference.cache
+C:\Users\Jackson\RiderProjects\Films\Films.Core\obj\Debug\netcoreapp3.1\Films.Core.AssemblyInfoInputs.cache
+C:\Users\Jackson\RiderProjects\Films\Films.Core\obj\Debug\netcoreapp3.1\Films.Core.AssemblyInfo.cs
+C:\Users\Jackson\RiderProjects\Films\Films.Core\obj\Debug\netcoreapp3.1\Films.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\RiderProjects\Films\Films.Core\obj\Debug\netcoreapp3.1\Films.Core.dll
+C:\Users\Jackson\RiderProjects\Films\Films.Core\obj\Debug\netcoreapp3.1\Films.Core.pdb
+C:\Users\Jackson\RiderProjects\Films\Films.Core\obj\Debug\netcoreapp3.1\Films.Core.genruntimeconfig.cache
